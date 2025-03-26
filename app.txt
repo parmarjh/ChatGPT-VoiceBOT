@@ -1,0 +1,9 @@
+openai
+speech_recognition 
+pyttsx3
+flask 
+Flask
+request
+jsonify
+
+
